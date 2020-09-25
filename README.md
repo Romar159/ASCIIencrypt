@@ -9,3 +9,6 @@
 3rd char is char + 2 . . .
 
 Etc.
+
+
+Write for fun, for this challenge : https://www.hackthissite.org/missions/basic/6/ 
