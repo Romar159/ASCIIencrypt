@@ -1,5 +1,5 @@
 # ASCIIencrypt
-#### Small program use simply system of encryption with ASCII
+#### Small program use a simple system of encryption with ASCII
 
 
 1st char is char + 0 DEC of ASCII Table
